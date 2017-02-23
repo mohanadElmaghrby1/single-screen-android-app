@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Besto</string>
+    <string name="restaurantName">Elqashet Restaurant</string>
+    <string name="location">Kom Hamada , Naser Street</string>
+    <string name="phone">01014152062</string>
+    <string name="email">mohanad@mail.com</string>
+</resources>
